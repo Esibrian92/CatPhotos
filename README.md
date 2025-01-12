@@ -1,2 +1,2 @@
 # CatPhotos
-basic html recipe page
+basic html Photo and form page
